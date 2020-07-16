@@ -1,4 +1,4 @@
-The project1EDATAA.R content plays out the information planning and afterward followed by the 5 stages required as portrayed in the course task's definition. 
+The random.R content plays out the information planning and afterward followed by the 5 stages required as portrayed in the course task's definition. 
 
 Download the dataset 
 
